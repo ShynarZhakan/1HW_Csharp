@@ -17,3 +17,4 @@ else
 }
 
 Console.WriteLine($"Максимальное число равно {max} ");
+

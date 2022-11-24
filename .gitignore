@@ -1,2 +1,11 @@
 .vscode
 
+.DS_Store
+
+bin 
+
+obj
+
+2_task.csproj
+
+4_task.csproj
